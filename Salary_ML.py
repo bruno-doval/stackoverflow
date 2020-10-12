@@ -6,6 +6,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score, mean_squared_error
 import seaborn as sns
 
+def teste():
+    print('ok')
+
 def clean_data(df):
     '''
     INPUT
